@@ -11,7 +11,7 @@ CodeSnap   Turn code into beautiful screenshots with one click! Customize themes
 2. Customize the design
 3. Save or share your screenshot
 
-##License  
+## License  
 **MIT License** 
 
  **You can**:  
@@ -23,6 +23,6 @@ CodeSnap   Turn code into beautiful screenshots with one click! Customize themes
 - Original license notice  
 - Copyright line  
 
-🔗 Full text: [LICENSE](LICENSE)  
+ Full text: [LICENSE](LICENSE)  
 
-💻 Made with Python & PyQt5 | #CodeSnap
+ Made with Python & PyQt5 | #CodeSnap
